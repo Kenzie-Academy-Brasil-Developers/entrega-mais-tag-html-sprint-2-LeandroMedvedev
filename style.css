@@ -9,15 +9,8 @@ body {
 }
 
 h1, h2, h3, h4 {
-    /* width: 60vw;
-    margin: auto; */
     text-align: center;
 }
-
-/* div {
-    width: 60vw;
-    margin: auto;
-} */
 
 #image {
     width: 310px;
@@ -34,4 +27,3 @@ footer {
     margin-bottom: 60px;
     text-align: center;
 }
-
