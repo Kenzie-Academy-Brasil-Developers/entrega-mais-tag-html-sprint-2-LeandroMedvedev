@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    background-color: cornsilk;
+    align-content: center;
+    text-align: justify;
+    width: 60vw;
+    margin: auto;
+}
+
+h1, h2, h3, h4 {
+    /* width: 60vw;
+    margin: auto; */
+    text-align: center;
+}
+
+/* div {
+    width: 60vw;
+    margin: auto;
+} */
+
+#image {
+    width: 310px;
+    margin-left: 203px;
+    box-sizing: border-box;
+}
+
+figcaption {
+    width: 310px;
+    line-height: 20px;
+}
+
+footer {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
